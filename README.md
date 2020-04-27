@@ -1,6 +1,5 @@
 # COVID-19_Data_Insight
 This is a Data analysis project part of the Data Scientist Program from DataInsight
-<hr>
 
 # Introduction to COVID-19
 **Coronavirus** is a family of viruses that can cause illness, which can vary from *common cold* and *cough* to sometimes more severe disease. **Middle East Respiratory Syndrome (MERS-CoV)** and **Severe Acute Respiratory Syndrome (SARS-CoV)** were such severe cases with the world already has faced.<br>
@@ -28,14 +27,12 @@ Pandemic is spreading all over the world; it becomes more important to understan
    
 - 2020 World Population by country and population density by [Worldometer.info](https://www.worldometers.info/world-population/population-by-country/)
 - This dataset is updated on monthly basis by Worldometers.info
-<hr>
+
 
 
 
 # Table of Content :
 
-
-<hr>
 
 
 * Introduction to COVID-19
